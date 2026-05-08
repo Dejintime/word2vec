@@ -35,5 +35,6 @@
 | 11  | lstm.csv                    | 0.75692 |
 | 12  | cnn.csv                     | 0.54520 |
 | 13  | transformer.csv             | 0.50000 |
+| 14  | bert_trainer.csv             | 0.93888 |
 
-
+## 补交实验为bert_trainer，已加在成绩汇总第14行
